@@ -1,0 +1,23 @@
+h1 {
+    font-size: 5em;
+    color: black;
+    margin: 0.67em 0;
+ }
+
+h2 {
+    font-size: 3em;
+    color: red;
+    height: 0;
+}
+p {
+    font-size: 2em;
+    color: blue;
+}
+
+ul, li {
+    margin-bottom: 0;
+}
+
+br {
+    font-weight: bolder;
+}
