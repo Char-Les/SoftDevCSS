@@ -1,20 +1,19 @@
 h1 {
     font-size: 5em;
-    color: black;
     margin: 0.67em 0;
  }
 
-h2 {
+a {
     font-size: 3em;
     color: red;
     height: 0;
 }
 p {
-    font-size: 2em;
-    color: blue;
+    font-size: 10;
+    color: royalblue;
 }
 
-ul, li {
+ul{
     margin-bottom: 0;
 }
 
