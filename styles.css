@@ -1,0 +1,19 @@
+h1 {
+  color: lightsteelblue;
+  text-align: justify;
+}
+
+h2 {
+  color: royalblue;
+  font-style: italic;
+}
+
+h3 {
+  color: lightgreen;
+  top: 10px;
+}
+
+ul {
+  color: pink;
+  border: 5px;
+}
